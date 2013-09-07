@@ -15,8 +15,7 @@
         android:theme="@style/AppTheme" >
         <service
  		android:name="MyService"
-  		android:icon="@drawable/icon"
-  		android:label="@string/service_name"
+ 	
   		>
 	</service> 
     </application>
